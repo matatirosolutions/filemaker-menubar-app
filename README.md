@@ -5,5 +5,6 @@ I work with a lot of different clients and I wanted to make it super easy to lau
 
 For more details see https://bit.ly/fm-menu-bar.
 
-Steve Winter
-Matatiro Solutions
+Steve Winter  
+Matatiro Solutions  
+steve@msdev.co.uk
